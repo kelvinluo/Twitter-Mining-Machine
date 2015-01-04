@@ -1,4 +1,4 @@
-Author: Kelvin Luo
+Twitter Mining Machine
 ======================
 
 This software runs under the environment of Python 2.7
